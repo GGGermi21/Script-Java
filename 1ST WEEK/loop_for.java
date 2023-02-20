@@ -58,7 +58,6 @@ public static void splitter(){
     int lenght = parola.length();
     for(int i=0; i<=lenght;i++){
         for(int j=0; j<=lenght;j++){
-            char carattere = 
         } 
         System.out.println();
     }
